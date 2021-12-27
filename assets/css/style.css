@@ -1,0 +1,101 @@
+.btn-dark {
+    background-image: linear-gradient(to right, #651483, #1f6cff);
+    border: none;
+}
+
+.btn-download-noborder {
+    border: none;
+}
+
+/* nav bar white text over dark image */
+.navbar-light .nav-navbar>.nav-item>.nav-link, .navbar-light .nav-navbar>.nav-link, .navbar-stick-light.stick .nav-navbar>.nav-item>.nav-link, .navbar-stick-light.stick .nav-navbar>.nav-link {
+    color: white;
+}
+
+
+
+/* .navbar-light .navbar-toggler, .navbar-stick-light.stick .navbar-toggler {
+color: white;} */
+
+.blue-signup-btn {
+    background-color: #1f6cff;
+    color: white;
+    border: none;
+}
+
+.white-signup-btn {
+    background-color: white;
+    color: #1f6cff;
+    border: none;
+}
+
+.blue-signup-btn-center{
+    text-align: center;
+}
+
+.signup-marginbelowtext{
+    margin-bottom: 3rem;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.fw-header-600 h1 {
+    font-weight: 600;
+    font-size: 4rem;
+}
+
+.img-center {
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+.btm-margin-barview {
+    margin-bottom: 7rem;
+}
+
+
+/* .navbar-light .nav-navbar>.nav-item>.nav-link, .navbar-light .nav-navbar>.nav-link, .navbar-stick-light.stick .nav-navbar>.nav-item>.nav-link, .navbar-stick-light.stick .nav-navbar>.nav-link {
+    color: rgba(255,255,255,0.65);
+} */
+
+
+.head-white-tx h1,p {
+    color: black;
+}
+
+.section-pricing {
+    position: relative;
+    border-bottom: none;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.marg-btm-pricing {
+    margin-top:0;
+    margin-bottom: 2rem;
+}
+.pricing-download-clr {
+    background-color: #50a1ff;
+    color: white;
+}
+
+
+
+/* fix spacing between secitons */
+
+.theapp-venueinfo-above {
+    padding-top: 1rem;
+}
+
+.hopmanagement-whyhop-below {
+    padding-top: 10rem;
+    padding-bottom: 3rem;
+}
+
+.download-opt2-color {
+    color: white;
+}
